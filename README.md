@@ -1,0 +1,12 @@
+# College-Management-System-
+
+ 
+Teacher Record Management System project is a web application which is developed in GUI platform. Which Includes Menu Of More available features like for teachers and admin members and as well as a librarians
+
+DEVELOPED WITH:
+⦁	     PYTHON v3.9 AND ITS IDLE
+OBJECTIVES:
+⦁	TO MAINTAIN THE STUDENT PROFILE OF INDIVIDUAL STUDENTS IN A CLASS OR BATCH OR DEPT
+⦁	TO MAINTAIN FEE REPORT FOR THE HOW MANY STUDENTS PAID THE FEES AND FEE RECEIPT NUMBERS
+⦁	TO MAIN THE BOOKS AND BOOKS RECEIPT NUMBERS USING LIBRARY SYSTEM 
+⦁	TO MAINTAIN MARKS OF EACH AND INDIVIDUAL STUDENT MARKS USING MARKSHEET SYSTEM 
